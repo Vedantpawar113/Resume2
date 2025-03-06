@@ -103,6 +103,6 @@
 }
 
 function printCV () {
-Window.print();
+window.print();
    
 }
